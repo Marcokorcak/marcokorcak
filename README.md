@@ -1,6 +1,6 @@
 ### Hello, I am Marco Korcak 👋
 
-- 🔭 I’m currently working on my Hackathon 2021 mobile application.
+- 🔭 I’m currently working on my CodePath Mobile App project.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on any mobile apps. 
 - 🤔 I’m looking for help with learning Swift.  
