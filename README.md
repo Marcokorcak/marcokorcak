@@ -1,6 +1,6 @@
 ### Hello, I am Marco Korcak 👋
 
-- 🔭 I’m currently working on my CodePath Mobile App project.
+- 🔭 I’m currently working on building a personal website.
 - 🌱 I’m currently learning Assembly.
 - 👯 I’m looking to collaborate on any mobile apps. 
 - 🤔 I’m looking for help with learning Swift.  
