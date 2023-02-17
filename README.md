@@ -29,12 +29,16 @@
 
 ### 👉 Programming languages
 
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff">
+    <img alt="Java" src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff">
   </a> 
   &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
