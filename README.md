@@ -125,8 +125,8 @@
 <a href="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=Cross-Site-Scripting-XSS&theme=material-palenight" />
 </a>
-<a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
+<a href="https://github.com/Marcokorcak/Cross-Site-Request-Forgery-CSRF">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=Cross-Site-Request-Forgery-CSRF&theme=material-palenight" />
 </a>
 <a href="https://github.com/StrangeRanger/customized-unix-terminal">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=material-palenight" alt="customized-unix-terminal" />
