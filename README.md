@@ -86,7 +86,7 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="SQL" src ="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/"><img alt="SQL" src ="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff"></a>
 
  </p>
   
