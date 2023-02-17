@@ -117,7 +117,7 @@
 ## Notable Repos/Projects
 
 <a href="https://github.com/Marcokorcak/TCP-IP-Attack">
-  <image align="center" src="https://github.com/Marcokorcak/TCP-IP-Attack" alt="TCP-IP-Attack" />
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=TCP-IP-Attack&theme=material-palenight" />
 </a>
 <a href="https://github.com/Marcokorcak/SQL-Injection-Attack">
   <image align="center" src="https://github.com/Marcokorcak/SQL-Injection-Attack" alt="SQL-Injection-Attack" />
