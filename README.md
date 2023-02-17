@@ -113,7 +113,7 @@
    &emsp;
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff"></a>
    &emsp;
-    <a href="#"><img alt="Npm" src=" https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm"></a>
+    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm"></a>
 </p>
 
 
