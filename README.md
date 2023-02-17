@@ -120,8 +120,7 @@
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=TCP-IP-Attack&theme=material-palenight" />
 </a>
 <a href="https://github.com/Marcokorcak/SQL-Injection-Attack">
-  <image align="center" src="  https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=SQL-Injection-Attack&theme=material-palenight
-" alt="SQL-Injection-Attack" />
+  <image align="center" src="  https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=SQL-Injection-Attack&theme=material-palenight" alt="SQL-Injection-Attack" />
 </a>
 <a href="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS">
   <image align="center" src="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS" alt="Cross-Site-Scripting-XSS" />
