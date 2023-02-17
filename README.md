@@ -1,6 +1,6 @@
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=13F711&background=000000&center=true&multiline=true&width=435&height=80&lines=Hello!+I'm+Marco+Korcak+;Welcome+to+my+GitHub)](https://git.io/typing-svg)
-<p align="center">
+
   
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
