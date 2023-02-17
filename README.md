@@ -128,11 +128,9 @@
 <a href="https://github.com/Marcokorcak/Cross-Site-Request-Forgery-CSRF">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=Cross-Site-Request-Forgery-CSRF&theme=material-palenight" />
 </a>
-<a href="https://github.com/StrangeRanger/customized-unix-terminal">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=material-palenight" alt="customized-unix-terminal" />
+<a href="https://github.com/Marcokorcak/PacMan-Remastered">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=Marcokorcak&repo=PacMan-Remastered&theme=material-palenight"  />
 </a>
-<a href="https://github.com/StrangeRanger/mass-git">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
-</a>
+
 
 
