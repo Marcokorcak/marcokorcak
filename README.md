@@ -1,4 +1,4 @@
-### Hello, I am Marco Korcak 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=13F711&background=000000&center=true&multiline=true&width=435&lines=Hello!+I'm+Marco+Korcak+;and+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on getting my penetration tester certificate.
 - 🌱 I’m currently learning Cyber Security.
