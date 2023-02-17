@@ -113,3 +113,26 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy being active outdoors :)
 
+
+## Notable Repos/Projects
+
+<a href="https://github.com/Marcokorcak/TCP-IP-Attack">
+  <image align="center" src="https://github.com/Marcokorcak/TCP-IP-Attack" alt="inspector" />
+</a>
+<a href="https://github.com/Marcokorcak/SQL-Injection-Attack">
+  <image align="center" src="https://github.com/Marcokorcak/SQL-Injection-Attack" alt="inspector" />
+</a>
+<a href="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS">
+  <image align="center" src="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS" alt="Mewdeko BashScript" />
+</a>
+<a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
+</a>
+<a href="https://github.com/StrangeRanger/customized-unix-terminal">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=material-palenight" alt="customized-unix-terminal" />
+</a>
+<a href="https://github.com/StrangeRanger/mass-git">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
+</a>
+
+
