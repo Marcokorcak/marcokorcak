@@ -117,13 +117,13 @@
 ## Notable Repos/Projects
 
 <a href="https://github.com/Marcokorcak/TCP-IP-Attack">
-  <image align="center" src="https://github.com/Marcokorcak/TCP-IP-Attack" alt="inspector" />
+  <image align="center" src="https://github.com/Marcokorcak/TCP-IP-Attack" alt="TCP-IP-Attack" />
 </a>
 <a href="https://github.com/Marcokorcak/SQL-Injection-Attack">
-  <image align="center" src="https://github.com/Marcokorcak/SQL-Injection-Attack" alt="inspector" />
+  <image align="center" src="https://github.com/Marcokorcak/SQL-Injection-Attack" alt="SQL-Injection-Attack" />
 </a>
 <a href="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS">
-  <image align="center" src="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS" alt="Mewdeko BashScript" />
+  <image align="center" src="https://github.com/Marcokorcak/Cross-Site-Scripting-XSS" alt="Cross-Site-Scripting-XSS" />
 </a>
 <a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
